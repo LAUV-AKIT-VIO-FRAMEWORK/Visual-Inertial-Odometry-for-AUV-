@@ -60,12 +60,12 @@ Introduce a learning-based adaptive noise
 model
 Dynamically updates both:
 Process noise covariance (Qk) based on
-motion dynamics
+motion dynamics.
 Measurement noise covariance (Rk) based
-on visual quality
+on visual quality.
 Instead of fixed noise values, the system
 uses learned scaling factors to adjust
-uncertainty in real time
+uncertainty in real time.
 
 Qk=scaled noise based on (γgyro,γaccel,γbias )
 
@@ -87,6 +87,8 @@ Enables real-time performance with minimal computational overhead.
 
 ----------------------------------------------------------------------------
 Future Work :
-testing with 30fps+ camera pipeline
-closed loop innovation calculation
-Validation using real-world underwater datasets and field experiments
+Testing with 30fps+ camera pipeline.
+
+Closed loop innovation calculation.
+
+Validation using real-world underwater datasets and field experiments.
