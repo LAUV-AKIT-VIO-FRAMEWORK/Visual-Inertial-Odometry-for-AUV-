@@ -76,10 +76,14 @@ Conclusion
 
 Proposed A-KIT VIO, an adaptive visual–inertial odometry framework for GPS-denied
 underwater environments.
+
 Integrated EKF with a hybrid LSTM-Transformer adaptive noise scaling to handle complex motion and environmental conditions.
-Overcomes limitations of fixed-noise VIO by adapting process noise online
-Achieves stable state estimation and bounded drift even with sparse visual updates
-Enables real-time performance with minimal computational overhead
+
+Overcomes limitations of fixed-noise VIO by adapting process noise online.
+
+Achieves stable state estimation and bounded drift even with sparse visual updates.
+
+Enables real-time performance with minimal computational overhead.
 
 ----------------------------------------------------------------------------
 Future Work :
