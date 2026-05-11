@@ -69,7 +69,8 @@ uncertainty in real time
 
 Qk=scaled noise based on (γgyro,γaccel,γbias )
 
-Rk=γr⋅Rnominal
+Rk=yr.Rnominal
+
 -------------------------------------------------------------------------------
 Conclusion
 
