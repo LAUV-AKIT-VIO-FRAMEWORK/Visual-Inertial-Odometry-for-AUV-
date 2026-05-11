@@ -16,8 +16,8 @@ Fuses:
 
 High-rate IMU data (100–200 Hz)
 Monocular camera data (1–10 Hz)
-Introduces a learning-based adaptive module (Set Transformer)Dynamically
-adjusts process noise
+
+Core Innovation: Introduces a learning-based adaptive module (LSTM + Set Transformer) that dynamically adjusts process and measurement noise.
 
 Ensures stable localization under dynamic underwater conditions
 
@@ -76,8 +76,7 @@ Conclusion
 
 Proposed A-KIT VIO, an adaptive visual–inertial odometry framework for GPS-denied
 underwater environments
-Integrated EKF with transformer-based adaptive noise scaling to handle dynamic
-motion conditions
+Integrated EKF with a hybrid LSTM-Transformer adaptive noise scaling to handle complex motion and environmental conditions.
 Overcomes limitations of fixed-noise VIO by adapting process noise online
 Achieves stable state estimation and bounded drift even with sparse visual updates
 Enables real-time performance with minimal computational overhead
