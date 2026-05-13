@@ -25,6 +25,7 @@ Ensures stable localization under dynamic underwater conditions.
 -------------------------------------------------------------------------
 
 EXPERIMENTAL SETUP
+<img width="1312" height="697" alt="image" src="https://github.com/user-attachments/assets/1c221835-7d13-4509-8315-d166c76a73eb" />
 
 Simulation Environment :
 Evaluated in a Gazebo(version-11)-based underwater simulation with ROS(neotic)
