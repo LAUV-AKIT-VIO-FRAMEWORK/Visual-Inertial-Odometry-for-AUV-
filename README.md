@@ -99,7 +99,7 @@ Validation using real-world underwater datasets and field experiments.
 ## Research Note & Citation
 This repository contains the official implementation of the A-KIT VIO framework.
 
-Please Note: The current version of this code includes advanced modules—specifically Induced Set Attention Blocks (ISAB) and Pooling by Multihead Attention (PMA)—which are part of an follow-up publication currently under submission.
+Please Note: The current version of this code includes advanced modules—specifically Induced Set Attention Blocks (ISAB) and Pooling by Multihead Attention (PMA)—which are part of a follow-up publication currently under submission.
 
 If you use this code, the hybrid architecture, or the A-KIT framework in your research, please cite our foundational work:
 
