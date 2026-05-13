@@ -19,7 +19,8 @@ Monocular camera data (1–10 Hz)
 
 Core Innovation: Introduces a learning-based adaptive module (LSTM + Set Transformer) that dynamically adjusts process and measurement noise.
 
-Ensures stable localization under dynamic underwater conditions
+Ensures stable localization under dynamic underwater conditions.
+<img width="1406" height="527" alt="image" src="https://github.com/user-attachments/assets/5ae63a5c-095f-42c7-b548-f1cc6ccfac11" />
 
 -------------------------------------------------------------------------
 
