@@ -101,6 +101,6 @@ This repository contains the official implementation of the A-KIT VIO framework.
 
 Please Note: The current version of this code includes advanced modules—specifically Induced Set Attention Blocks (ISAB) and Pooling by Multihead Attention (PMA)—which are part of a follow-up publication currently under submission.
 
-If you use this code, the hybrid architecture, or the A-KIT framework in your research, please cite our foundational work:
+If you use this code, the hybrid architecture, or the A-KIT VIO framework in your research, please cite our foundational work:
 
 Gauri P Nair, Vinaya V, Dona Sebastian, and Kavitha K V, "A-KIT Based Visual-Inertial Odometry Framework for Autonomous Underwater Vehicle Positioning," 11th International Conference on Information and Communication Technology for Intelligent Systems (ICTIS 2026), Springer Nature Lecture Notes in Networks and Systems (LNNS), 2026.
